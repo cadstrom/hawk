@@ -1,0 +1,6 @@
+version: 1
+kicad:
+  drc:
+    - file: hawk.kicad_pcb
+      dru:
+        file: default
