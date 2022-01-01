@@ -2,5 +2,7 @@ version: 1
 kicad:
   drc:
     - file: hawk.kicad_pcb
+      approvals:
+        - 'Track_Edge_Proximity-(142.68582665440152,73.60001)-reset-F.Cu'
       dru:
         file: default
