@@ -5,7 +5,7 @@ kicad:
       approvals:
         - 'Track_Edge_Proximity-(142.68582665440152,73.60001)-reset-F.Cu'
       dru:
-        file: oshpark-2layer
+        file: default
   erc:
     - file: hawk.sch
       lib: hawk-cache.lib
