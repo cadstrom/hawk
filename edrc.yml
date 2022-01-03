@@ -6,7 +6,9 @@ kicad:
         - 'Track_Edge_Proximity-(142.68582665440152,73.60001)-reset-F.Cu'
         - 'Track_Edge_Proximity-(142.68151,81.34348)-reset-F.Cu'
         - 'Track_Edge_Proximity-(142.68582665440152,73.60001)-reset-F.Cu'
-      dru: default
+        - 'Track_Edge_Proximity-(142.68582665440152,89.08695)-reset-F.Cu'
+      dru:
+        file: default
   erc:
     - file: hawk.sch
       lib: hawk-cache.lib
