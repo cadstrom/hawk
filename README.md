@@ -1,9 +1,11 @@
+[![design rule check status](https://cadstrom.io/api/v1/user/cadstrom/project/hawk/img/status.svg)](https://cadstrom.io/g/cadstrom/hawk)
+
 # hawk
 Small ARM dev board based on ATSAMD10.
 
 This repository takes a step-by-step look at creating a simple ATSAMD10-based dev-board using KiCAD.
 
-![Board](board.png)
+[![hawk.kicad_pcb from Cadstrom.io](https://cadstrom.io/api/v1/user/cadstrom/project/407993506/img/file/hawk.kicad_pcb.png?ref=refs%252Fheads%252Fmaster)](https://cadstrom.io/g/cadstrom/407993506)
 
 ## Contents
 
