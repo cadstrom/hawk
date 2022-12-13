@@ -1,0 +1,10 @@
+version: 1.1
+project:
+  type: kicad
+  boards:
+    - file: hawk.kicad_pcb
+      dru:
+        file: oshpark-2layer
+  schematics:
+    - file: hawk.sch
+      lib: hawk-cache.lib
